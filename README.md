@@ -10,3 +10,5 @@ Priority : High, Normal and Low
 Status : Complete and Incomplete
 
 Charting : Using bar and Pie Chart for task analysis
+
+Languages : HTML5, CSS, JAVASCRIPT, JQUERY, BOOTSTRAP, CSS
